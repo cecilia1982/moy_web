@@ -1137,6 +1137,10 @@ body.mobile-nav-active #mobile-nav-toggle {
         margin-bottom: 10px; /* Added */
 }
 
+.card-body{
+  background-color: #F5F5F5;
+}
+
 .map {
     -webkit-filter: grayscale(100%);
        -moz-filter: grayscale(100%);
