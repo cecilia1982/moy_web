@@ -1067,13 +1067,15 @@ body.mobile-nav-active #mobile-nav-toggle {
     font-family: "Lato", sans-serif;
 }
 
-#pricing .featured {
+/*#pricing .featured {
     border: 2px solid #1dc8cd;
-}
+}*/
 
 #pricing .featured .get-started-btn {
     background: linear-gradient(45deg, #1de099, #1dc8cd);
 }
+
+
 
 
 /* SECCION DE COMO TRABAJAMOS*/
@@ -1160,7 +1162,9 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .card-body {
-    background-color: #F5F5F5;
+    /*background-color: #F5F5F5;*/
+    border: 2px solid #1dc8cd;
+
 }
 
 .map {
@@ -1170,5 +1174,4 @@ body.mobile-nav-active #mobile-nav-toggle {
     -o-filter: grayscale(100%);
     filter: grayscale(100%);
 }
-
 
